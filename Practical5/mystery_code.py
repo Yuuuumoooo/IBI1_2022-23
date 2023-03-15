@@ -1,6 +1,6 @@
 # What does this piece of code do?
-# Answer: Get 10 random values between 1 and 100, and take the largest 
-# value among these 10 random numbers.
+# Answer: Get 10 random values between 1 and 100 and take their ceil. 
+# Priting the largest value among these 10 numbers
 
 # Import libraries
 # randint allows drawing a random number,
