@@ -4,12 +4,12 @@ c=116.39
 d=a-b
 e=c-a
 if d>e: 
-    print("Rob travel further to Los Angeles")
+    print("d is greater. Rob travel further to Los Angeles")
 elif d==e:
-    print("Rob travel equally to Los Angeles and Haining")
+    print("d is same as e. Rob travel equally to Los Angeles and Haining")
 else: 
-    print("Rob travel further to Haining")
-#Rob travel further to Haining
+    print("e is greater. Rob travel further to Haining")
+#Rob travels further to Haining
 X=4<5
 Y=4>5
 W=X and Y
