@@ -1,6 +1,6 @@
 # What does this piece of code do?
-# Answer: Get 10 random values between 1 and 100 and take their ceil. 
-# Priting the largest value among these 10 numbers
+# Answer: Get 10 random integers between 1 and 100 and priting the largest 
+#value among these 10 nunbers.
 
 # Import libraries
 # randint allows drawing a random number,
@@ -19,6 +19,7 @@ while progress<10:
 	progress+=1
 #loop 10 times
 	n = randint(1,100)
+#ranint(): random integer
 	if n > stored_random_number:
 		stored_random_number = n
 #take the larger value 
