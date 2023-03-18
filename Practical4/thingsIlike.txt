@@ -10,3 +10,4 @@ I like raining
 I like red  
 I like yellow
 I don't like noisy
+I don't like crowd

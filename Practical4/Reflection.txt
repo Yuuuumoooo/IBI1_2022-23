@@ -1,0 +1,4 @@
+I think this practical is a bit difficult and time consuming. 
+I had tried the code "git push origin master" for nearly 1-2 hours. 
+But I am happy to learn how to use git and github, especially when I make 
+a website for myself. 
