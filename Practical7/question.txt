@@ -1,0 +1,4 @@
+Question: How have new cases and total cases developed over time in the UK?
+start line in covid.py: 62
+result discussion: It is what I expected. It shows that at first there were not so many 
+cases, but later the total number increased quickly. 

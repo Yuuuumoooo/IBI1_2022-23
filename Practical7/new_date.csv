@@ -1,0 +1,196 @@
+,location,new_cases,new_deaths
+81,Afghanistan,27,0
+104,Albania,11,2
+191,Algeria,57,2
+209,Andorra,36,2
+219,Angola,0,0
+224,Anguilla,0,0
+236,Antigua and Barbuda,0,0
+261,Argentina,146,4
+344,Armenia,58,0
+445,Australia,464,3
+537,Austria,805,22
+622,Azerbaijan,64,0
+636,Bahamas,0,0
+727,Bahrain,15,0
+744,Bangladesh,0,0
+758,Barbados,1,0
+842,Belarus,11,0
+934,Belgium,1063,82
+942,Belize,1,0
+957,Benin,0,0
+969,Bermuda,5,0
+987,Bhutan,0,0
+1006,Bolivia,11,3
+1025,Bosnia and Herzegovina,30,2
+1114,Brazil,323,23
+1119,British Virgin Islands,1,0
+1140,Brunei,1,0
+1162,Bulgaria,13,0
+1181,Burkina Faso,42,3
+1264,Cambodia,2,0
+1283,Cameroon,43,0
+1375,Canada,1169,28
+1386,Cape Verde,0,0
+1398,Cayman Islands,4,0
+1414,Central African Republic,0,0
+1426,Chad,2,0
+1453,Chile,310,1
+1545,China,84,3
+1566,Colombia,96,4
+1582,Congo,0,0
+1606,Costa Rica,16,0
+1624,Cote d'Ivoire,3,0
+1713,Croatia,77,0
+1730,Cuba,31,1
+1758,Cyprus,16,1
+1850,Czech Republic,173,8
+1869,Democratic Republic of Congo,17,0
+1961,Denmark,182,5
+1974,Djibouti,7,0
+1983,Dominica,0,0
+2066,Dominican Republic,42,3
+2153,Ecuador,76,4
+2241,Egypt,33,4
+2254,El Salvador,2,0
+2271,Equatorial Guinea,0,0
+2281,Eritrea,0,0
+2368,Estonia,36,0
+2386,Ethiopia,7,0
+2398,Faeroe Islands,9,0
+2399,Falkland Islands,0,0
+2411,Fiji,0,0
+2498,Finland,95,2
+2590,France,4376,418
+2603,French Polynesia,1,0
+2621,Gabon,0,0
+2635,Gambia,1,0
+2724,Georgia,8,0
+2816,Germany,4615,128
+2834,Ghana,0,0
+2846,Gibraltar,4,0
+2936,Greece,56,5
+2948,Greenland,0,0
+2957,Grenada,0,0
+2970,Guam,4,0
+2987,Guatemala,0,0
+2999,Guernsey,0,0
+3016,Guinea,8,0
+3021,Guinea-Bissau,0,0
+3038,Guyana,0,0
+3050,Haiti,0,0
+3068,Honduras,2,4
+3094,Hungary,0,0
+3186,Iceland,66,0
+3277,India,180,3
+3362,Indonesia,129,8
+3518,Iran,3186,117
+3608,Iraq,83,4
+3698,Ireland,295,8
+3709,Isle of Man,0,0
+3798,Israel,226,2
+3890,Italy,4050,810
+3909,Jamaica,5,0
+4001,Japan,87,2
+4013,Jersey,0,0
+4032,Jordan,9,4
+4049,Kazakhstan,41,0
+4067,Kenya,8,0
+4083,Kosovo,20,0
+4172,Kuwait,11,0
+4185,Kyrgyzstan,0,0
+4192,Laos,3,0
+4217,Latvia,0,0
+4305,Lebanon,8,1
+4320,Liberia,0,0
+4327,Libya,0,0
+4348,Liechtenstein,2,0
+4431,Lithuania,0,0
+4516,Luxembourg,38,1
+4599,Macedonia,26,1
+4610,Madagascar,7,0
+4701,Malaysia,156,3
+4723,Maldives,0,0
+4729,Mali,0,0
+4751,Malta,5,0
+4752,Mariana Islands,2,0
+4769,Mauritania,0,0
+4781,Mauritius,18,0
+4865,Mexico,101,8
+4887,Moldova,35,0
+4967,Monaco,3,0
+4983,Mongolia,0,0
+4997,Montenegro,6,0
+5008,Montserrat,0,0
+5030,Morocco,77,7
+5039,Mozambique,0,0
+5048,Myanmar,6,0
+5065,Namibia,0,0
+5144,Nepal,0,0
+5236,Netherlands,884,93
+5247,New Caledonia,1,0
+5330,New Zealand,95,0
+5343,Nicaragua,1,1
+5354,Niger,10,2
+5435,Nigeria,34,1
+5527,Norway,124,4
+5613,Oman,12,0
+5700,Pakistan,99,5
+5724,Palestine,9,0
+5746,Panama,86,2
+5757,Papua New Guinea,0,0
+5777,Paraguay,1,0
+5801,Peru,98,6
+5889,Philippines,666,17
+5915,Poland,193,9
+5944,Portugal,446,21
+5948,Puerto Rico,47,1
+6036,Qatar,59,0
+6126,Romania,192,4
+6213,Russia,302,2
+6230,Rwanda,0,0
+6236,Saint Kitts and Nevis,0,0
+6253,Saint Lucia,0,0
+6261,Saint Vincent and the Grenadines,0,0
+6352,San Marino,0,1
+6378,Saudi Arabia,224,0
+6400,Senegal,20,0
+6422,Serbia,0,0
+6439,Seychelles,2,0
+6531,Singapore,0,0
+6561,Slovakia,0,0
+6587,Slovenia,33,0
+6602,Somalia,0,0
+6626,South Africa,46,1
+6718,South Korea,125,5
+6719,South Sudan,1,0
+6811,Spain,6398,812
+6894,Sri Lanka,0,0
+6912,Sudan,1,1
+6924,Suriname,0,0
+6941,Swaziland,0,0
+7033,Sweden,328,36
+7125,Switzerland,1138,38
+7134,Syria,1,1
+7224,Taiwan,0,0
+7239,Tanzania,5,0
+7324,Thailand,263,3
+7334,Timor,0,0
+7352,Togo,4,0
+7371,Trinidad and Tobago,7,0
+7394,Tunisia,34,0
+7412,Turkey,2318,37
+7419,Turks and Caicos Islands,0,0
+7429,Uganda,0,0
+7447,Ukraine,62,2
+7533,United Arab Emirates,143,3
+7625,United Kingdom,2619,180
+7717,United States,21595,661
+7741,Uruguay,11,0
+7757,Uzbekistan,4,1
+7774,Vatican,0,0
+7791,Venezuela,16,2
+7879,Vietnam,1,0
+7971,World,62445,3698
+7984,Zambia,6,0
+7995,Zimbabwe,0,0
