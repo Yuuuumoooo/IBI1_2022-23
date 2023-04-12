@@ -4,7 +4,6 @@ import re
 stop=input("TAA/TAG/TGA:")
 new_file=open(stop+"_stop_genes.fa","w")
 file=open("xid-1055764_1")
-count=0
 
 sequence=""
 for line in file:
@@ -13,12 +12,12 @@ for line in file:
     sequence+=new_line
   else:
     if re.findall(r"ATG.+"+stop,sequence):
-      new_name =" ".join(map(str,new_name))+"\n"  #change to str type
+      number=str(sequence.count(stop))
+      new_name =" ".join(map(str,new_name))+" total number "+number+"\n"
+                        #change to str type
       sequence+="\n\n"
       new_file.write(new_name)
       new_file.write(sequence)
-      count+=1
     sequence=""
     new_name = re.findall(r"^>\S+",line)
 new_file.close()
-print(count)
