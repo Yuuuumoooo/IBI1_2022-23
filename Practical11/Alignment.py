@@ -11,8 +11,8 @@ for i in species:
   seq=seq.read()
   pro[i]=re.sub(r".+\n(.+)\n",r"\1",seq)
 
+#reference:https://biopython.org/docs/1.75/api/Bio.pairwise2.html
 #import BLOSUM62 matrix
-#reference:#reference:https://biopython.org/docs/1.75/api/Bio.pairwise2.html
 matrix=Matlist.blosum62
 
 #alignment
