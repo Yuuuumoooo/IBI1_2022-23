@@ -7,9 +7,10 @@ import re
 species=["human","mouse","cat"]
 pro={}
 for i in species:
-  seq=open("ACE2_"+i+".fa","r")
-  seq=seq.read()
+  file=open("ACE2_"+i+".fa","r")
+  seq=file.read()
   pro[i]=re.sub(r".+\n(.+)\n",r"\1",seq)
+  file.close()
 
 #reference:https://biopython.org/docs/1.75/api/Bio.pairwise2.html
 #import BLOSUM62 matrix
