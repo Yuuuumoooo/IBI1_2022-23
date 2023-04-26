@@ -1,6 +1,6 @@
 #import nessary packages
 from Bio import pairwise2
-from Bio.SubsMat import MatrixInfo as Matlist
+from Bio.Align import substitution_matrices
 import re
 
 #import three protein sequences
@@ -13,7 +13,7 @@ for i in species:
 
 #reference:https://biopython.org/docs/1.75/api/Bio.pairwise2.html
 #import BLOSUM62 matrix
-matrix=Matlist.blosum62
+matrix=substitution_matrices.load("BLOSUM62")
 
 #alignment
 human_mouse=pairwise2.align.globaldx(pro["human"],pro["mouse"],matrix)
