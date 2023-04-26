@@ -20,6 +20,7 @@ matrix=substitution_matrices.load("BLOSUM62")
 human_mouse=pairwise2.align.globaldx(pro["human"],pro["mouse"],matrix)
 score1=human_mouse[0][2]
 hm=pairwise2.align.globalxx(pro["human"],pro["mouse"])
+print(hm[0][2])
 perc1=hm[0][2]/len(pro["human"])
 
 human_cat=pairwise2.align.globaldx(pro["human"],pro["cat"],matrix)
@@ -38,5 +39,5 @@ print("human and cat have score",score2,"in protein sequence length of",len(pro[
 print("mouse and cat have score",score3,"in protein sequence length of",len(pro["mouse"]),"with overlap percentage of",perc3,"\n",mouse_cat[0][1])
 
 #my interpretation
-#Because human_mouse has the largest score, the sequences of human and mouse are most closely related.
+#Because human_cat has the largest score, the sequences of human and cat are most closely related.
 #Human, mouse and cat are all closely related, probably because they share a common ancestor and they all evolved into mammals.
